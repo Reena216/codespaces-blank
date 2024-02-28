@@ -1,0 +1,26 @@
+{
+  "name": "weather _API",
+  "version": "1.0.0",
+  "description": "Test_Weather_API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "REENA POPAT",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.22",
+    "nodemon": "^3.1.0",
+    "npm": "^10.5.0",
+    "run-all": "^1.0.1",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  }
+}
